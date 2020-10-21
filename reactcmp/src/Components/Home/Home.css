@@ -1,0 +1,27 @@
+.myphoto{
+   
+    width: 200px;
+    height: 200px;
+    border-radius: 140px;
+    margin: 2% 42% 0 42%;
+    
+}
+.stylme{
+    background-color: rgb(235, 230, 213);
+    align-items: center;
+    width: 96%;
+    height: 240px;
+    margin: 2% 2% 0 2% ; 
+    border-radius: 10px 10px 0 0 ;
+}
+.name{
+    background-color: rgb(235, 230, 213);
+    color: rgb(64, 148, 187);
+    font-size: 200%;
+    margin: 0 2% 2% 2%;
+    width: 96%;
+    height: 55px;
+    border-radius: 0 0 10px 10px ;
+    text-align: center;
+
+}

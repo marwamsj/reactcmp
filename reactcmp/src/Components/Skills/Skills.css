@@ -1,0 +1,21 @@
+.titr{
+    border-top: 1px solid rgb(235, 230, 213);
+    border-bottom: 1px solid rgb(235, 230, 213);
+    width : 100%;
+    font-family: Georgia, serif;
+    font-size: 200%;
+    text-align: center;
+    padding: 1%;
+    color: rgb(235, 230, 213);
+}
+.skil{
+    display: flex;
+    justify-content: space-around; 
+    margin: 0 4%; 
+}
+.skil img {
+    margin-top: 3% ;
+    width: 100px;
+    height: 150px;
+    border-radius: 10px; 
+}

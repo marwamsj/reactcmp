@@ -1,0 +1,27 @@
+.Conta{
+    border-top: 1px solid rgb(235, 230, 213);
+    width: 100%;
+    margin-top: 8%;
+    text-align: center;
+    color: rgb(235, 230, 213);
+    
+}
+.tete{
+    background-color: rgb(235, 230, 213);
+    font-family: Georgia, serif;
+    font-size: 200%;
+    margin: 2% 45% 4% 45%;
+    padding: 1% 1.5% 0 1.5%;
+    color: rgb(46, 45, 45);
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    text-align: center;
+}
+.adr{
+    color: rgb(235, 230, 213);
+    text-align: center;
+}
+.Conta p{
+    padding: 1%;
+}
